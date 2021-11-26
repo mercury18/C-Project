@@ -1,0 +1,9 @@
+David wants to create a ticket booking application for a movie theatre. The application should ask the user for his choice, whether he wants to book the tickets or not. The application should also ask the user for the total number of tickets to be booked. While booking the tickets, if the total number of booked tickets exceeds the available tickets, the application should raise an exception and display an appropriate message.
+
+Hint:
+
+The total number of available tickets is 20.
+Tickets should be display based on the categories (i.e. Thriller, Action, Comedy, Drama)
+If any user is in the final stage of booking, it should lock the seat until user exit from the booking
+Before displaying the Ticket Booking, it should ask the user name
+Once Booking is complete it should display User Name and “(No. of Seats) has been booked successfully” in green colour.
