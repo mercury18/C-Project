@@ -1,0 +1,14 @@
+C:\Users\ashis\source\repos\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.exe
+C:\Users\ashis\source\repos\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.deps.json
+C:\Users\ashis\source\repos\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.runtimeconfig.json
+C:\Users\ashis\source\repos\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.runtimeconfig.dev.json
+C:\Users\ashis\source\repos\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.dll
+C:\Users\ashis\source\repos\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.pdb
+C:\Users\ashis\source\repos\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.csproj.AssemblyReference.cache
+C:\Users\ashis\source\repos\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashis\source\repos\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.AssemblyInfoInputs.cache
+C:\Users\ashis\source\repos\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.AssemblyInfo.cs
+C:\Users\ashis\source\repos\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.csproj.CoreCompileInputs.cache
+C:\Users\ashis\source\repos\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.dll
+C:\Users\ashis\source\repos\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.pdb
+C:\Users\ashis\source\repos\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.genruntimeconfig.cache
